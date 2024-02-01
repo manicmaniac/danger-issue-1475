@@ -2,4 +2,4 @@
 
 source "https://rubygems.org"
 
-gem "danger"
+gem "danger", git: "https://github.com/manicmaniac/danger", branch: "compatibility-with-octokit-v7"
